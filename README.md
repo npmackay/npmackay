@@ -2,8 +2,6 @@
 
 **Passionate Full Stack Developer | MERN Stack Enthusiast | UI/UX Design Aficionado**
 
-[GitHub](https://github.com/npmackay)
-
 ## Skills
 - **Front-End:** HTML, CSS, JavaScript (2.5 years experience)
 - **MERN Stack:** MongoDB, Express.js, React.js, Node.js (1 year experience)
