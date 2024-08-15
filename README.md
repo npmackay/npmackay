@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noah Mackay</h1>
 <h3 align="center">A passionate Full Stack developer from Canada</h3>
 
-- 🔭 I’m currently working on [LootLair](https://github.com/npmackay/LootLair)
+- 🔭 I’m currently working on [etchAStack](https://npmackay.github.io/etchAStack/)
 
 - 🌱 I’m currently learning **React , Express and Node**
 
